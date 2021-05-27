@@ -7,8 +7,8 @@
 
 ```cfg
 [BINANCE]
-API_KEY = YOUR KEY                  # A MODIFIER
-SECRET_KEY = YOUR SECRET KEY        # A MODIFIER
+API_KEY = YOUR KEY                  
+SECRET_KEY = YOUR SECRET KEY        
 ```
 
 - installer le package python-binance 
