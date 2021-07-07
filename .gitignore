@@ -1,1 +1,10 @@
 config.cfg
+binance
+node_modules
+.gitattributes
+.gitignore
+binance2.py
+binance.json
+package.-lock.json
+PieChart01.png
+python.py
