@@ -26,11 +26,12 @@ ou autre
 my_coins = ['BTC','USDT', 'ETH']     # A ADAPTER
 ```
 
-- Editer le dict stack car l'API ne sait pas encore récupérer les crypto stackées 
+
+Editer la monnaie de référence utilisée : USDT ou EUR
 
 ```python
 #exemple
-stack = {'DOT':3, 'ADA':6.1938, 'CAKE':3.125, 'TRX': 67}      # A ADAPTER
+reference_asset = 'EUR'     # A ADAPTER
 ```
 
 - et lancer tout les cellules
